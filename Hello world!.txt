@@ -1,3 +1,5 @@
 print("Hello world!");
+print("Hello my dear friend");
+print("Glad to steel you");
 print("hello!");
 print("hi");
